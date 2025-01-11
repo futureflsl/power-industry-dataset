@@ -76,5 +76,13 @@
 <tr><td>69</td><td>电力场景输电路杆塔上的鸟巢检测数据集VOC+YOLO格式1000张1类别.7z</td><td><a href="https://mbd.pub/o/bread/Z52VmZxx">下载</a></td></tr>
 <tr><td>70</td><td>电力场景输电线路异物检测数据集VOC+YOLO格式4370张1类别</td><td><a href="https://mbd.pub/o/bread/Z52VmJ9y">下载</a></td></tr>
 <tr><td>71</td><td>电力场景配网缺陷系列之销钉缺失检测数据集VOC+YOLO格式3095张2类别</td><td><a href="https://mbd.pub/o/bread/Z52VmJ5s">下载</a></td></tr>
+<tr><td>72</td><td>电力场景变电站绝缘手套佩戴规范检测数据集VOC+YOLO格式2084张6类别</td><td><a href="https://mbd.pub/o/bread/Z52bmZpt">下载</a></td></tr>
+<tr><td>73</td><td>电力场景变电站火灾检测数据集VOC+YOLO格式3098张2类别</td><td><a href="https://mbd.pub/o/bread/Z52bmJlp">下载</a></td></tr>
+<tr><td>74</td><td>电力场景输电杆塔关节检测数据集VOC+YOLO格式969张2类别</td><td><a href="https://mbd.pub/o/bread/Z52blp5p">下载</a></td></tr>
+<tr><td>75</td><td>电力场景输电线电缆线灼伤烧伤破皮脱皮损伤缺陷检测数据集VOC+YOLO格式2054张1类别</td><td><a href="https://mbd.pub/o/bread/Z52blpxy">下载</a></td></tr>
+<tr><td>76</td><td>电力场景输电线覆冰分割数据集labelme格式1227张2类别</td><td><a href="https://mbd.pub/o/bread/Z52alZdr">下载</a></td></tr>
+<tr><td>77</td><td>电力巡检检测数据集VOC+YOLO格式9400张32类别</td><td><a href="https://mbd.pub/o/bread/Z52ZlJxx">下载</a></td></tr>
+<tr><td>78</td><td>电力场景输电路杆塔上的鸟巢检测数据集VOC+YOLO格式1000张1类别</td><td><a href="https://mbd.pub/o/bread/Z52VmZxx">下载</a></td></tr>
+<tr><td>79</td><td>电力场景输电线路异物检测数据集VOC+YOLO格式4370张1类别</td><td><a href="https://mbd.pub/o/bread/Z52VmJ9y">下载</a></td></tr>
 </tbody>
 </table>
