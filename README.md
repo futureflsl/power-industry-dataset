@@ -91,5 +91,7 @@
 <tr><td>84</td><td>电力场景螺栓螺帽销钉丢失检测数据集VOC+YOLO格式1494张5类别</td><td><a href="https://mbd.pub/o/bread/Z52bmp5q">下载</a></td></tr>
 <tr><td>85</td><td>电力场景绝缘子绑扎规范检测数据集VOC+YOLO格式1140张3类别</td><td><a href="https://mbd.pub/o/bread/Z52bmppu">下载</a></td></tr>
 <tr><td>86</td><td>电力场景电力设备漏油检测数据集VOC+YOLO格式1114张36类别</td><td><a href="https://mbd.pub/o/bread/Z52bmZ1v">下载</a></td></tr>
+<tr><td>87</td><td>电力场景红外图像变电站目标检测数据集VOC+YOLO格式1175张13类别</td><td><a href="https://mbd.pub/o/bread/Z56Wkpdq">下载</a></td></tr>
+<tr><td>88</td><td>电力场景红外图像变电站液体泄漏检测数据集VOC+YOLO格式5034张1类别</td><td><a href="https://mbd.pub/o/bread/Z56Wmphp">下载</a></td></tr>
 </tbody>
 </table>
