@@ -96,5 +96,6 @@
 <tr><td>89</td><td>电力场景电工验电断电操作规范检测数据集VOC+YOLO格式2084张6类别</td><td><a href="https://mbd.pub/o/bread/Z56clZtp">下载</a></td></tr>
 <tr><td>90</td><td>电力场景配网人员安全带识别检测数据集VOC+YOLO格式4651张2类别</td><td><a href="https://mbd.pub/o/bread/aJWTlZls">下载</a></td></tr>
 <tr><td>91</td><td>电力场景配网绝缘子损坏检测数据集VOC+YOLO格式2384张1类别</td><td><a href="https://mbd.pub/o/bread/aJWTm5pv">下载</a></td></tr>
+<tr><td>92</td><td>电力场景绝缘子缺陷分割数据集labelme格式1585张4类别</td><td><a href="https://mbd.pub/o/bread/aJWck5dw">下载</a></td></tr>
 </tbody>
 </table>
