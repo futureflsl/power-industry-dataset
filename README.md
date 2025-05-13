@@ -101,5 +101,8 @@
 <tr><td>94</td><td>电力场景输电线路植被被侵占输电线树障检测数据集VOC+YOLO格式2981张2类别</td><td><a href="https://mbd.pub/o/bread/aJeTm59y">下载</a></td></tr>
 <tr><td>95</td><td>陶瓷绝缘子缺陷检测数据集VOC+YOLO格式2908张3类别</td><td><a href="https://mbd.pub/o/bread/aJeYkplq">下载</a></td></tr>
 <tr><td>96</td><td>绝缘子缺陷检测数据集VOC+YOLO格式795张4类别</td><td><a href="https://mbd.pub/o/bread/aJeYkpht">下载</a></td></tr>
+<tr><td>97</td><td>无人机巡检电力设施缺陷检测数据集VOC+YOLO格式8487张3类别有增强</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZg==">下载</a></td></tr>
+<tr><td>98</td><td>电力设备检测数据集VOC+YOLO格式2274张6类别</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZA==">下载</a></td></tr>
+<tr><td>99</td><td>绝缘子缺陷检测数据集VOC+YOLO格式1566张3类别</td><td><a href="https://mbd.pub/o/bread/YZWTkp1wbA==">下载</a></td></tr>
 </tbody>
 </table>
