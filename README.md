@@ -104,5 +104,8 @@
 <tr><td>97</td><td>无人机巡检电力设施缺陷检测数据集VOC+YOLO格式8487张3类别有增强</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZg==">下载</a></td></tr>
 <tr><td>98</td><td>电力设备检测数据集VOC+YOLO格式2274张6类别</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZA==">下载</a></td></tr>
 <tr><td>99</td><td>绝缘子缺陷检测数据集VOC+YOLO格式1566张3类别</td><td><a href="https://mbd.pub/o/bread/YZWTkp1wbA==">下载</a></td></tr>
+<tr><td>100</td><td>电力场景塔材锈蚀识别分割数据集labelme格式1764张1类别</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1vbQ==">下载</a></td></tr>
+<tr><td>101</td><td>电力场景塔材锈蚀检测数据集VOC+YOLO格式1764张1类别</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1uaQ==">下载</a></td></tr>
+<tr><td>102</td><td>电力场景导线散股与输电线异物检测数据集VOC+YOLO格式1393张2类别</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1uZw==">下载</a></td></tr>
 </tbody>
 </table>
