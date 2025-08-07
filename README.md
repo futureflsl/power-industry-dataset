@@ -110,5 +110,6 @@
 <tr><td>103</td><td>智慧电网-红外图像电气系统故障检测数据集VOC+YOLO格式1729张6类别</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZQ==">下载</a></td></tr>
 <tr><td>104</td><td>电线杆损坏倒塌断裂检测数据集VOC+YOLO格式2943张1类别</td><td><a href="https://mbd.pub/o/bread/YZWWkp5yaA==">下载</a></td></tr>
 <tr><td>105</td><td>电线杆损坏倒塌断裂分割数据集labelme格式2597张1类别</td><td><a href="https://mbd.pub/o/bread/YZWWkp9rZQ==">下载</a></td></tr>
+<tr><td>106</td><td>电力施工现场安全检测数据集VOC+YOLO格式9438张20类别</td><td><a href="https://mbd.pub/o/bread/YZWWk51xaA==">下载</a></td></tr>
 </tbody>
 </table>
