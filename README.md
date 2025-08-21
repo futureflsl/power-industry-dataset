@@ -111,5 +111,6 @@
 <tr><td>104</td><td>电线杆损坏倒塌断裂检测数据集VOC+YOLO格式2943张1类别</td><td><a href="https://mbd.pub/o/bread/YZWWkp5yaA==">下载</a></td></tr>
 <tr><td>105</td><td>电线杆损坏倒塌断裂分割数据集labelme格式2597张1类别</td><td><a href="https://mbd.pub/o/bread/YZWWkp9rZQ==">下载</a></td></tr>
 <tr><td>106</td><td>电力施工现场安全检测数据集VOC+YOLO格式9438张20类别</td><td><a href="https://mbd.pub/o/bread/YZWWk51xaA==">下载</a></td></tr>
+<tr><td>107</td><td>电力场景高清无人机视角配网缺陷销钉缺失检测数据集VOC+YOLO格式3484张2类别</td><td><a href="https://mbd.pub/o/bread/YZWWmZZwaQ==">下载</a></td></tr>
 </tbody>
 </table>
