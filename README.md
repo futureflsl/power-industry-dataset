@@ -28,7 +28,7 @@
 <tr><td>21</td><td>电力场景隔离开关状态识别检测数据集VOC+YOLO格式50张2类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89407531">下载</a></td></tr>
 <tr><td>22</td><td>电力场景电表类型检测数据集VOC+YOLO格式3232张5类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89401322">下载</a></td></tr>
 <tr><td>23</td><td>电力工地场景下的人头检测数据集VOC+YOLO格式7035张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89391111">下载</a></td></tr>
-<tr><td>24</td><td>变电站缺陷检测数据集VOC+YOLO格式8307张17类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89383918">下载</a></td></tr>
+<tr><td>24</td><td>变电站缺陷检测数据集VOC+YOLO格式8307张17类别</td><td><a href="https://mbd.pub/o/bread/YZWVlJhtZg==">下载</a></td></tr>
 <tr><td>25</td><td>电力负荷预测的相关数据集csv文件+xlsx文件.zip</td><td><a href="https://download.csdn.net/download/FL1623863129/89362103">下载</a></td></tr>
 <tr><td>26</td><td>电力场景电力目标检测数据集VOC+YOLO格式476张5类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89314779">下载</a></td></tr>
 <tr><td>27</td><td>输电线路涉鸟故障相关鸟种细粒度分类数据集2889张50类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89301599">下载</a></td></tr>
