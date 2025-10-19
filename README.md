@@ -114,5 +114,7 @@
 <tr><td>107</td><td>电力场景高清无人机视角配网缺陷销钉缺失检测数据集VOC+YOLO格式3484张2类别</td><td><a href="https://mbd.pub/o/bread/YZWWmZZwaQ==">下载</a></td></tr>
 <tr><td>108</td><td>智慧电网-变电站巡检异常缺陷检测数据集VOC+YOLO格式8482张113类别</td><td><a href="https://mbd.pub/o/bread/YZWWmZtqaA==">下载</a></td></tr>
 <tr><td>109</td><td>电力场景变电站缺陷检测数据集VOC+YOLO格式8116张78类别</td><td><a href="https://mbd.pub/o/bread/YZWWmZpyaA==">下载</a></td></tr>
+<tr><td>110</td><td>110kV电力设备目标检测数据集VOC+YOLO格式642张18类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuag==">下载</a></td></tr>
+<tr><td>111</td><td>110kV电力设备识别分割数据集labelme格式642张18类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuaQ==">下载</a></td></tr>
 </tbody>
 </table>
