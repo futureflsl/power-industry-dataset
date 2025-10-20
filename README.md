@@ -116,5 +116,7 @@
 <tr><td>109</td><td>电力场景变电站缺陷检测数据集VOC+YOLO格式8116张78类别</td><td><a href="https://mbd.pub/o/bread/YZWWmZpyaA==">下载</a></td></tr>
 <tr><td>110</td><td>110kV电力设备目标检测数据集VOC+YOLO格式642张18类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuag==">下载</a></td></tr>
 <tr><td>111</td><td>110kV电力设备识别分割数据集labelme格式642张18类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuaQ==">下载</a></td></tr>
+<tr><td>112</td><td>电力设备缺陷检测数据集VOC+YOLO格式3729张12类别有增强</td><td><a href="https://mbd.pub/o/bread/YZWYlZxrZw==">下载</a></td></tr>
+<tr><td>113</td><td>红外电力设备检测数据集VOC+YOLO格式1473张12类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpaQ==">下载</a></td></tr>
 </tbody>
 </table>
