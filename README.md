@@ -44,7 +44,7 @@
 <tr><td>37</td><td>输电线异物检测数据集VOC+YOLO格式1300张4类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89002612">下载</a></td></tr>
 <tr><td>38</td><td>电力行业高空作业安全带检测数据集VOC+YOLO格式147张4类别</td><td><a href="https://download.csdn.net/download/FL1623863129/88986612">下载</a></td></tr>
 <tr><td>39</td><td>PHEV电池包泄压阀位置检测数据集VOC+YOLO格式292张3类别</td><td><a href="https://download.csdn.net/download/FL1623863129/88937399">下载</a></td></tr>
-<tr><td>40</td><td>电力巡检场景安全帽检测数据集VOC+YOLO格式295张2类别</td><td><a href="https://download.csdn.net/download/FL1623863129/88717511">下载</a></td></tr>
+<tr><td>40</td><td>电力绝缘子缺陷检测数据集VOC+YOLO格式6050张4类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5taA==">下载</a></td></tr>
 <tr><td>41</td><td>电力场景电柜箱门把手检测数据集VOC+YOLO格式1167张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/88630212">下载</a></td></tr>
 <tr><td>42</td><td>电风扇目标检测数据集VOC+YOLO格式364张1类别.zip</td><td><a href="https://download.csdn.net/download/FL1623863129/88628095">下载</a></td></tr>
 <tr><td>43</td><td>数据集VOC格式输电线路异物数据集加标注目标检测数据集-295张</td><td><a href="https://download.csdn.net/download/FL1623863129/87378187">下载</a></td></tr>
@@ -118,5 +118,8 @@
 <tr><td>111</td><td>110kV电力设备识别分割数据集labelme格式642张18类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuaQ==">下载</a></td></tr>
 <tr><td>112</td><td>电力设备缺陷检测数据集VOC+YOLO格式3729张12类别有增强</td><td><a href="https://mbd.pub/o/bread/YZWYlZxrZw==">下载</a></td></tr>
 <tr><td>113</td><td>红外电力设备检测数据集VOC+YOLO格式1473张12类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpaQ==">下载</a></td></tr>
+<tr><td>114</td><td>输变电设备目标检测数据集VOC+YOLO格式3143张14类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5uag==">下载</a></td></tr>
+<tr><td>115</td><td>电力绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5tbQ==">下载</a></td></tr>
+
 </tbody>
 </table>
