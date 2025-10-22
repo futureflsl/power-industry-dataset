@@ -120,6 +120,6 @@
 <tr><td>113</td><td>红外电力设备检测数据集VOC+YOLO格式1473张12类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpaQ==">下载</a></td></tr>
 <tr><td>114</td><td>输变电设备目标检测数据集VOC+YOLO格式3143张14类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5uag==">下载</a></td></tr>
 <tr><td>115</td><td>电力绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5tbQ==">下载</a></td></tr>
-
+<tr><td>116</td><td>电力场景下人员安全帽检测数据集VOC+YOLO格式5000张2类别</td><td><a href="https://mbd.pub/o/bread/YZWYlphsZg==">下载</a></td></tr>
 </tbody>
 </table>
