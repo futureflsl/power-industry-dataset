@@ -122,5 +122,7 @@
 <tr><td>115</td><td>电力绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5tbQ==">下载</a></td></tr>
 <tr><td>116</td><td>电力场景下人员安全帽检测数据集VOC+YOLO格式5000张2类别</td><td><a href="https://mbd.pub/o/bread/YZWYlphsZg==">下载</a></td></tr>
 <tr><td>117</td><td>输电线路金具检测数据集VOC+YOLO格式6529张7类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5luag==">下载</a></td></tr>
+<tr><td>118</td><td>输电线路绝缘子缺陷检测数据集VOC+YOLO格式4061张5类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5xyZQ==">下载</a></td></tr>
+<tr><td>119</td><td>输电线路绝缘子缺陷检测图像数据集VOC+YOLO格式1578张3类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5xxaA==">下载</a></td></tr>
 </tbody>
 </table>
