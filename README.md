@@ -14,7 +14,7 @@
 <tr><td>7</td><td>电力场景变电站控制柜状态检测数据集VOC+YOLO格式3000张16类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665201">下载</a></td></tr>
 <tr><td>8</td><td>光伏发电板红外图像鸟粪检测数据集VOC+YOLO格式173张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664905">下载</a></td></tr>
 <tr><td>9</td><td>电力场景输电线杆塔塔架金属锈蚀腐蚀生锈检测数据集VOC+YOLO格式1344张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664850">下载</a></td></tr>
-<tr><td>10</td><td>电力场景红外图像开关柜接头过热部件检测数据集VOC+YOLO格式4271张14类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664405">下载</a></td></tr>
+<tr><td>10</td><td>电力场景红外图像开关柜接头过热部件检测数据集VOC+YOLO格式4271张14类别</td><td><a href="https://mbd.pub/o/bread/YZWYmptpag==">下载</a></td></tr>
 <tr><td>11</td><td>电力场景配电柜光按钮检测数据集VOC+YOLO格式769张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664305">下载</a></td></tr>
 <tr><td>12</td><td>电力场景变电站继电保护控制柜屏幕检测数据集VOC+YOLO格式1103张6类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664235">下载</a></td></tr>
 <tr><td>13</td><td>电力场景输电线异物检测数据集VOC+YOLO格式2060张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89664070">下载</a></td></tr>
