@@ -124,5 +124,6 @@
 <tr><td>117</td><td>输电线路金具检测数据集VOC+YOLO格式6529张7类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5luag==">下载</a></td></tr>
 <tr><td>118</td><td>输电线路绝缘子缺陷检测数据集VOC+YOLO格式4061张5类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5xyZQ==">下载</a></td></tr>
 <tr><td>119</td><td>输电线路绝缘子缺陷检测图像数据集VOC+YOLO格式1578张3类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5xxaA==">下载</a></td></tr>
+<tr><td>120</td><td>输电线路红外图像与可见光图像融合数据集含分割标签红外图像为CSV格式需转换可用图像配准</td><td><a href="https://mbd.pub/o/bread/YZWYm5xpZA==">下载</a></td></tr>
 </tbody>
 </table>
