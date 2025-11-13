@@ -126,5 +126,6 @@
 <tr><td>119</td><td>输电线路绝缘子缺陷检测图像数据集VOC+YOLO格式1578张3类别</td><td><a href="https://mbd.pub/o/bread/YZWYl5xxaA==">下载</a></td></tr>
 <tr><td>120</td><td>输电线路红外图像与可见光图像融合数据集含分割标签红外图像为CSV格式需转换可用图像配准</td><td><a href="https://mbd.pub/o/bread/YZWYm5xpZA==">下载</a></td></tr>
 <tr><td>121</td><td>电力场景线缆故障绝缘子缺失生锈检测数据集VOC+YOLO格式8487张3类别</td><td><a href="https://mbd.pub/o/bread/YZWYm59rbA==">下载</a></td></tr>
+<tr><td>122</td><td>电力场景绝缘子缺陷识别检测数据集VOC+YOLO格式1598张3类别</td><td><a href="https://mbd.pub/o/bread/YZWYm59xbQ==">下载</a></td></tr>
 </tbody>
 </table>
