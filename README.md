@@ -5,7 +5,7 @@
 <table>
 <thead><tr><th>序号</th><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>1</td><td>电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89666195">下载</a></td></tr>
+<tr><td>1</td><td>电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuaA==">下载</a></td></tr>
 <tr><td>2</td><td>电力场景输电线路红外过热检测数据集VOC+YOLO格式2253张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89666112">下载</a></td></tr>
 <tr><td>3</td><td>电力场景配电变压器检测数据集VOC+YOLO格式2994张1类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89666062">下载</a></td></tr>
 <tr><td>4</td><td>电力场景输电线路螺栓销钉缺失检测数据集VOC+YOLO格式2504张4类别</td><td><a href="https://download.csdn.net/download/FL1623863129/89665956">下载</a></td></tr>
