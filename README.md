@@ -130,5 +130,6 @@
 <tr><td>123</td><td>电力场景无人机训练输电线杆塔缺陷检测数据集VOC+YOLO格式2547张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZkp9pbQ==">下载</a></td></tr>
 <tr><td>124</td><td>电力场景无人机巡检数据集杆塔缺陷检测数据集VOC+YOLO格式1720张12类别</td><td><a href="https://mbd.pub/o/bread/YZWZkp5xbA==">下载</a></td></tr>
 <tr><td>125</td><td>电缆电力设施杆塔识别分割数据集labelme格式2369张4类别</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9qaA==">下载</a></td></tr>
+<tr><td>126</td><td>电力场景输电线路异物电力巡检异物检测数据集VOC+YOLO格式4165张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmJdwZQ==">下载</a></td></tr>
 </tbody>
 </table>
