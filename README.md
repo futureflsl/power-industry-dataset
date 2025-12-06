@@ -131,7 +131,12 @@
 <tr><td>124</td><td>电力场景无人机巡检数据集杆塔缺陷检测数据集VOC+YOLO格式1720张12类别</td><td><a href="https://mbd.pub/o/bread/YZWZkp5xbA==">下载</a></td></tr>
 <tr><td>125</td><td>电缆电力设施杆塔识别分割数据集labelme格式2369张4类别</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9qaA==">下载</a></td></tr>
 <tr><td>126</td><td>电力场景输电线路异物电力巡检异物检测数据集VOC+YOLO格式4165张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmJdwZQ==">下载</a></td></tr>
-<tr><td>127</td><td>电力设施巡检智慧电网设备数据集电网巡电路安全监测电力设备缺陷电线电缆异物入侵风筝电塔鸟巢检测数据集VOC+YOLO格式9035张25类别</td><td><a href="https://mbd.pub/o/bread/YZWZmJlpaA==">下载</a></td></tr>
-
+<tr><td>127</td><td>电力设施巡检智慧电网设备数据集电网巡电路安全监测电力设备缺陷电线电缆异物入侵风筝电塔鸟巢检测数据集VOC+YOLO格式9035张25类别</td><td><a href="https://mbd.pub/o/bread/YZWZmJlpaA==">下载</a></td>
+</tr>
+<tr><td>128</td><td>电力场景电杆类型识别分割数据集labelme格式4707张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZxag==">下载</a></td></tr>
+<tr><td>129</td><td>电力场景输电线路电力部件识别分割数据集labelme格式2522张5类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZxZw==">下载</a></td></tr>
+<tr><td>130</td><td>电力场景输电线路设备部件识别分割数据集labelme格式2752张21类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZwbA==">下载</a></td></tr>
+<tr><td>131</td><td>交通道路上电力设施要素高压开关电杆街灯变压器检测数据集VOC+YOLO格式4466张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZubQ==">下载</a></td></tr>
+<tr><td>132</td><td>电信设备设施通信设施腐蚀锈蚀检测数据集VOC+YOLO格式1078张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaw==">下载</a></td></tr>
 </tbody>
 </table>
