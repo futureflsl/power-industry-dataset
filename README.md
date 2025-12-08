@@ -138,5 +138,7 @@
 <tr><td>130</td><td>电力场景输电线路设备部件识别分割数据集labelme格式2752张21类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZwbA==">下载</a></td></tr>
 <tr><td>131</td><td>交通道路上电力设施要素高压开关电杆街灯变压器检测数据集VOC+YOLO格式4466张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZubQ==">下载</a></td></tr>
 <tr><td>132</td><td>电信设备设施通信设施腐蚀锈蚀检测数据集VOC+YOLO格式1078张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaw==">下载</a></td></tr>
+<tr><td>133</td><td>电力场景输电线覆冰识别分割数据集labelme格式1138张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZlwZQ==">下载</a></td></tr>
+<tr><td>134</td><td>电力场景输电线路覆冰检测数据集VOC+YOLO格式109张2类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZlvbA==">下载</a></td></tr>
 </tbody>
 </table>
