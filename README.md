@@ -140,5 +140,8 @@
 <tr><td>132</td><td>电信设备设施通信设施腐蚀锈蚀检测数据集VOC+YOLO格式1078张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaw==">下载</a></td></tr>
 <tr><td>133</td><td>电力场景输电线覆冰识别分割数据集labelme格式1138张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZlwZQ==">下载</a></td></tr>
 <tr><td>134</td><td>电力场景输电线路覆冰检测数据集VOC+YOLO格式109张2类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZlvbA==">下载</a></td></tr>
+<tr><td>135</td><td>电力场景螺栓锈蚀挂板锈蚀挂环锈蚀耐张线夹锈蚀检测数据集VOC+YOLO格式1576张14类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZw==">下载</a></td></tr>
+<tr><td>136</td><td>电力场景输电线接口处电线传输线接口检测数据集VOC+YOLO格式2367张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZQ==">下载</a></td></tr>
+<tr><td>137</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZxtaA==">下载</a></td></tr>
 </tbody>
 </table>
