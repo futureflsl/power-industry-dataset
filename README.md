@@ -144,5 +144,7 @@
 <tr><td>136</td><td>电力场景输电线接口处电线传输线接口检测数据集VOC+YOLO格式2367张1类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZQ==">下载</a></td></tr>
 <tr><td>137</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZxtaA==">下载</a></td></tr>
 <tr><td>138</td><td>电力场景输电线异物覆冰损坏缺陷检测数据集VOC+YOLO格式5157张3类别</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1tbA==">下载</a></td></tr>
+<tr><td>139</td><td>电力场景电力巡检目标缺陷检测数据集VOC+YOLO格式9400张32类别</td><td><a href="https://mbd.pub/o/bread/YZWZmpxqaQ==">下载</a></td></tr>
+<tr><td>140</td><td>电力场景电力巡检导线误接地线故障均压环错位丢失螺栓松动防震锤缺失检测数据集VOC+YOLO格式916张9类别</td><td><a href="https://mbd.pub/o/bread/YZWZmpxqaA==">下载</a></td></tr>
 </tbody>
 </table>
