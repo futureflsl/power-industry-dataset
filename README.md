@@ -149,5 +149,6 @@
 <tr><td>141</td><td>电力场景输电线路防外破电线附近车辆检测数据集VOC+YOLO格式1866张7类别</td><td><a href="https://mbd.pub/o/bread/YZWZmpxvZg==">下载</a></td></tr>
 <tr><td>142</td><td>电力场景红外图像电力设备部件检测数据集VOC+YOLO格式4864张21类别</td><td><a href="https://mbd.pub/o/bread/YZWZm5ZtZA==">下载</a></td></tr>
 <tr><td>143</td><td>电力场景输电线路缺陷检测数据集VOC+YOLO格式1111张10类别</td><td><a href="https://mbd.pub/o/bread/YZWakphqag==">下载</a></td></tr>
+<tr><td>144</td><td>电力场景电力缺陷检测数据集VOC+YOLO格式5714张8类别</td><td><a href="https://mbd.pub/o/bread/YZWakpxuag==">下载</a></td></tr>
 </tbody>
 </table>
