@@ -151,5 +151,8 @@
 <tr><td>143</td><td>电力场景输电线路缺陷检测数据集VOC+YOLO格式1111张10类别</td><td><a href="https://mbd.pub/o/bread/YZWakphqag==">下载</a></td></tr>
 <tr><td>144</td><td>电力场景电力缺陷检测数据集VOC+YOLO格式5714张8类别</td><td><a href="https://mbd.pub/o/bread/YZWakpxuag==">下载</a></td></tr>
 <tr><td>145</td><td>电力场景输电线路关键部件绝缘子防震锤间隔棒避雷器检测数据集VOC+YOLO格式1206张5类别</td><td><a href="https://mbd.pub/o/bread/YZWak5dtZg==">下载</a></td></tr>
+<tr><td>146</td><td>电力场景高清图片输电线路植被被覆盖检测数据集VOC+YOLO格式447张1类别</td><td><a href="https://mbd.pub/o/bread/YZWak59vZQ==">下载</a></td></tr>
+<tr><td>147</td><td>电力场景高清图片输电线路鸟巢检测数据集VOC+YOLO格式490张1类别</td><td><a href="https://mbd.pub/o/bread/YZWak55xbA==">下载</a></td></tr>
+<tr><td>148</td><td>电力场景高清图片输电线路连接处销钉缺失检测数据集VOC+YOLO格式490张1类别</td><td><a href="https://mbd.pub/o/bread/YZWak55uZg==">下载</a></td></tr>
 </tbody>
 </table>
