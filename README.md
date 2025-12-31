@@ -154,5 +154,8 @@
 <tr><td>147</td><td>电力场景高清图片输电线路鸟巢检测数据集VOC+YOLO格式490张1类别</td><td><a href="https://mbd.pub/o/bread/YZWak55xbA==">下载</a></td></tr>
 <tr><td>148</td><td>电力场景高清图片输电线路连接处销钉缺失检测数据集VOC+YOLO格式490张1类别</td><td><a href="https://mbd.pub/o/bread/YZWak55uZg==">下载</a></td></tr>
 <tr><td>149</td><td>盘式绝缘子针式绝缘子瓷瓶缺陷检测数据集VOC+YOLO格式901张4类别</td><td><a href="https://mbd.pub/o/bread/YZWalJ5sZg==">下载</a></td></tr>
+<tr><td>150</td><td>电力场景输电线路电缆线异常连接处缺陷金属部件腐蚀检测数据集VOC+YOLO格式3429张5类别</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbQ==">下载</a></td></tr>
+<tr><td>151</td><td>聚合物电缆线表面缺陷检测数据集VOC+YOLO格式91张1类别</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbA==">下载</a></td></tr>
+<tr><td>152</td><td>工业电缆缺陷数据集374张8类别可用于分割或分类</td><td><a href="https://mbd.pub/o/bread/YZWalZtxbQ==">下载</a></td></tr>
 </tbody>
 </table>
