@@ -157,5 +157,6 @@
 <tr><td>150</td><td>电力场景输电线路电缆线异常连接处缺陷金属部件腐蚀检测数据集VOC+YOLO格式3429张5类别</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbQ==">下载</a></td></tr>
 <tr><td>151</td><td>聚合物电缆线表面缺陷检测数据集VOC+YOLO格式91张1类别</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbA==">下载</a></td></tr>
 <tr><td>152</td><td>工业电缆缺陷数据集374张8类别可用于分割或分类</td><td><a href="https://mbd.pub/o/bread/YZWalZtxbQ==">下载</a></td></tr>
+<tr><td>153</td><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式2828张7类别</td><td><a href="https://mbd.pub/o/bread/YZWalZxsZw==">下载</a></td></tr>
 </tbody>
 </table>
