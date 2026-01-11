@@ -162,5 +162,6 @@
 <tr><td>155</td><td>钢绞线导线损伤高压钢索线缺陷检测数据集VOC+YOLO格式1317张2类别</td><td><a href="https://mbd.pub/o/bread/YZWalZ9waA==">下载</a></td></tr>
 <tr><td>156</td><td>输电杆塔绝缘子红外测温图像检测数据集VOC+YOLO格式420张1类别</td><td><a href="https://mbd.pub/o/bread/YZWalZ9xZA==">下载</a></td></tr>
 <tr><td>157</td><td>电力场景螺栓螺丝螺帽缺失检测数据集VOC+YOLO格式857张3类别</td><td><a href="https://mbd.pub/o/bread/YZWamJttZA==">下载</a></td></tr>
+<tr><td>158</td><td>无人机视角电力场景输电线塔植被侵占鸟巢检测数据集VOC+YOLO格式2881张3类别</td><td><a href="https://mbd.pub/o/bread/YZWamJxubA==">下载</a></td></tr>
 </tbody>
 </table>
