@@ -164,5 +164,6 @@
 <tr><td>157</td><td>电力场景螺栓螺丝螺帽缺失检测数据集VOC+YOLO格式857张3类别</td><td><a href="https://mbd.pub/o/bread/YZWamJttZA==">下载</a></td></tr>
 <tr><td>158</td><td>无人机视角电力场景输电线塔植被侵占鸟巢检测数据集VOC+YOLO格式2881张3类别</td><td><a href="https://mbd.pub/o/bread/YZWamJxubA==">下载</a></td></tr>
 <tr><td>159</td><td>电力场景无人机视角电路巡检绝缘子防震锤避雷器负荷检测数据集VOC+YOLO格式1883张4类别</td><td><a href="https://mbd.pub/o/bread/YZWamp9wZQ==">下载</a></td>
+<tr><td>160</td><td>电力场景输电线路防外力破坏检测数据集VOC+YOLO格式1106张5类别</td><td><a href="https://mbd.pub/o/bread/YZWam5ttaA==">下载</a></td></tr>
 </tbody>
 </table>
